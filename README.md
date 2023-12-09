@@ -21,7 +21,7 @@ Ensure you have Python installed, and then follow these steps:
    pip install streamlit PyPDF2
    ```
 2. Run by fallowing command
-3. ```bash
+  ```bash
    streamlit run app.py
    ```
 
