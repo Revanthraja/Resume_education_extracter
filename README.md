@@ -23,4 +23,5 @@ Ensure you have Python installed, and then follow these steps:
 2. Run by fallowing command
 3. ```bash
    streamlit run app.py
+   ```
 
